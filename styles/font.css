@@ -8,3 +8,23 @@
     url("../fonts.css/TTLakes-Regular.woff") format("woff");
   font-display: swap;
 }
+
+@font-face {
+  font-family: "TT Lake Medium";
+  font-weight: 500;
+  font-style: medium;
+  src:
+    local("TT Lake Medium"),
+    url("../fonts.css/TTLakes-Medium.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "TT Lake Bold";
+  font-weight: 700;
+  font-style: bold;
+  src:
+    local("TT Lake Bold"),
+    url("../fonts.css/TTLakes-Bold.woff") format("woff");
+  font-display: swap;
+}
